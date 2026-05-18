@@ -1,0 +1,7 @@
+groq
+azure-cognitiveservices-vision-computervision
+azure-cognitiveservices-speech
+streamlit
+msrest
+pillow
+requests
